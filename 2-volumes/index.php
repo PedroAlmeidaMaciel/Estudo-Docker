@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Escreva sua Mensagem:</h1>
+    <h2>Será salvo em um BIND MOUNT!</h2>
     <form action="process.php" method="POST">
         <input type="text" name="message" id="Enviar Mensagem">
         <input type="submit" value="Enviar Mensagem">
